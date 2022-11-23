@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Red Dead Redemption 2",
+        "price": 299,
+        "cover": "co1q1f.jpeg",
+        "id": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+    },
+    {
+        "name": "Spider-Man",
+        "price": 219,
+        "cover": "co1r77.jpeg",
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+    },
+    {
+        "name": "Hollow Knight",
+        "price": 79,
+        "cover": "co1rgi.jpeg",
+        "id": 3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+    },
+    {
+        "name": "Call of Duty: Modern Warfare",
+        "price": 319,
+        "cover": "co1rsg.jpeg",
+        "id": 4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Final Fantasy XV",
+        "price": 179,
+        "cover": "co1tr2.jpeg",
+        "id": 5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "price": 119,
+        "cover": "co1wyy.jpeg",
+        "id": 6,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Horizon: Forbidden West",
+        "price": 239,
+        "cover": "co2gvu.jpeg",
+        "id": 7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "price": 219,
+        "cover": "co3p2d.jpeg",
+        "id": 8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Outer Wilds",
+        "price": 79,
+        "cover": "co3wsm.jpeg",
+        "id": 9,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Elden Ring",
+        "price": 219,
+        "cover": "co4jni.jpeg",
+        "id": 10,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "The Last of Us Remastered",
+        "price": 219,
+        "cover": "co4ok8.jpeg",
+        "id": 11,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Nier: Automata",
+        "price": 189,
+        "cover": "co5pcj.jpeg",
+        "id": 12,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "God of War: Ragnarok",
+        "price": 349,
+        "cover": "co5s5v.jpeg",
+        "id": 13,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Super Mario Galaxy 2",
+        "price": 219,
+        "cover": "co21tl.jpeg",
+        "id": 14,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    },
+    {
+        "name": "Splatoon 3",
+        "price": 279,
+        "cover": "co59x3.jpeg",
+        "id": 15,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id elementum elit. Mauris fermentum tempus efficitur. Ut non egestas lectus. Nulla sit amet nisl arcu. Donec non ultrices orci. Nullam eget gravida massa. Praesent a mauris vehicula, accumsan libero ut."
+
+    }
+]
